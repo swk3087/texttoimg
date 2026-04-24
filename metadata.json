@@ -1,0 +1,6 @@
+{
+  "name": "텍스트 투 이미지",
+  "description": "원하는 글자를 입력하고 색상, 폰트, 크기를 자유롭게 설정하여 PNG, JPG, SVG 이미지로 다운로드할 수 있는 간편한 도구입니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
